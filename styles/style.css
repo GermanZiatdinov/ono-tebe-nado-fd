@@ -7,13 +7,15 @@
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
 }
+.header_logotip {
+    width: 148px;
+    height: 105px;
+    top: 92px;
+    left: 478px;
+}
 .header_menu {
     display: flex;
     justify-self: center;
-    width: 391.48px;
-    height: 22px;
-    top: 133px;
-    left: 50px;
 }
 .menu_url {
     padding-right: 7px;
