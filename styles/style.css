@@ -10,6 +10,10 @@
 .header_menu {
     display: flex;
     justify-self: center;
+    width: 391.48px;
+    height: 22px;
+    top: 133px;
+    left: 50px;
 }
 .menu_url {
     padding-right: 7px;
