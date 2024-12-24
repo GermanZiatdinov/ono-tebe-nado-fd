@@ -24,10 +24,11 @@ a {
   margin-top: 44px;
   margin-left: 26.52px;
   padding: 0;
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 18px;
   text-decoration: none;  
+
 }
 
 .url_decoration {
@@ -53,7 +54,7 @@ a {
 .cont {
   width: 240.52px;
   line-height: 24.3px;
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -68,7 +69,7 @@ a {
 
 .tel {
   display: block;
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 24.3px;
@@ -97,8 +98,7 @@ a {
   background-color: rgba(0, 0, 0, 0.6);
   z-index: 0;
 }
-
-.cover_read{
+.cover_read {
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -109,7 +109,7 @@ a {
   text-transform: uppercase;
   font-size: 100px;
   color: #fff;
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   margin-top: 0;
   margin-top: 165px;
@@ -154,7 +154,7 @@ a {
   margin-bottom: 0;
   margin-left: 78px;
   margin-bottom: 62px;
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 22px;
   font-style: normal;
@@ -183,7 +183,7 @@ a {
 }
 
 .bet-button_text {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 22px;
   text-transform: uppercase;
@@ -205,13 +205,13 @@ main {
 }
 
 h2 {
-  font-family: Raleway, sans-serif;   
+  font-family: "Raleway", sans-serif;   
   font-size: 40px;
   text-transform: uppercase;
   margin-left: 40px;
 }
 
-.lots{
+.lots {
   margin-top: 179px;
   margin-inline: 24px;
 }
@@ -237,7 +237,7 @@ main p {
   background-image: url(../images/card-lot-01.jpg);
   background-position: center;
   background-size: cover;
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #fff;
   display: flex;
   flex-direction: column;
@@ -286,7 +286,7 @@ main p {
   width: 192px;
   margin-top: 30px;
   margin-left: 40px;
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 20px;
 }
@@ -321,7 +321,7 @@ main p {
 }
 
 h3 {
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 40px;
   text-transform: uppercase;
@@ -338,7 +338,7 @@ h3 {
   width: 688px;
   margin-top: 100px;
   margin-left: 23px;
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 20px;
@@ -360,7 +360,7 @@ h3 {
 .navig_footer {
   list-style: none;
   width: 300px;
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 21.13px;
