@@ -273,16 +273,13 @@ main p {
 
 .card_book {
   background-image: url(../images/card-lot-02.jpg);
-  gap: 97px;
 }
 
 .card_picture {
   background-image: url(../images/card-lot-03.jpg);
-  gap: 97px;
 }
 .card_cinema {
   background-image: url(../images/card-lot-01.jpg);
-  gap: 97px;
 }
 
 .url_lots {
