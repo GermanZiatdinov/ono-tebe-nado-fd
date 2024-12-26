@@ -45,11 +45,12 @@ a {
 
 
 .logotip {
-  width: 148px;
+  display: block;
+  width: 138px;
   height: 105px;
-  margin-left: auto;
-  margin-right: 185px;
+  margin-left: 30px;
 }
+
 
 .cont {
   width: 240.52px;
@@ -67,14 +68,6 @@ a {
   margin-right: 25.48px;
 }
 
-.address_link {
-  display: block;
-  font-family: "Raleway", sans-serif;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 24.3px;
-  text-underline-offset: 5px;
-}
 .address_text {
   display: block;
   font-family: "Raleway", sans-serif;
