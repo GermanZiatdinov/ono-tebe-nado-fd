@@ -366,6 +366,7 @@ h3 {
   gap: 48px;
 }
 .contacts {
+  justify-self: end;
   font-style: normal;
 }
 
