@@ -80,6 +80,9 @@ a {
 
 .margin {
   margin-right: 0;
+  display: grid;
+  grid-template-columns: 1fr min-content 1fr;
+  margin-top: 5px;
 }
 
 .address_text {
