@@ -1,7 +1,7 @@
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
-  justify-self: end;
+  justify-self: start;
   width: 1052px;
   margin-inline: 24px;
   margin-top: 92px;
