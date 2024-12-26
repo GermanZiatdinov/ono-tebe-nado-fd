@@ -56,7 +56,6 @@ a {
 
 
 .cont {
-  justify-self: end;
   width: 240.52px;
   line-height: 24.3px;
   font-family: "Raleway", sans-serif;
@@ -68,12 +67,12 @@ a {
 }
 
 .margin {
-  justify-self: end;
   margin-top: 5px;
   margin-right: 25.48px;
 }
 
 .address_text {
+  justify-self: end;
   display: block;
   font-family: "Raleway", sans-serif;
   font-weight: 400;
