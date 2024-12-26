@@ -1,7 +1,6 @@
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
-  justify-self: stretch;
   width: 1052px;
   margin-inline: 24px;
   margin-top: 92px;
@@ -57,6 +56,7 @@ a {
 
 
 .cont {
+  justify-self: stretch;
   width: 240.52px;
   line-height: 24.3px;
   font-family: "Raleway", sans-serif;
