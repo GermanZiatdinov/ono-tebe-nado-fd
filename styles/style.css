@@ -325,6 +325,7 @@ h3 {
 
 .about_title {
   text-decoration: none;
+  justify-self: center;
 }
 
 .about_text {
