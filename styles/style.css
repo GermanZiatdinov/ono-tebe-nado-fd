@@ -1,5 +1,5 @@
 .header {
-  display: flex;
+  display: grid 1fr min-content 1fr;
   justify-content: space-between;
   width: 1052px;
   margin-inline: 24px;
