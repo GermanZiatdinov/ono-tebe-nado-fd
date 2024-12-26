@@ -56,7 +56,7 @@ a {
 
 
 .cont {
-  justify-self: stretch;
+  justify-self: end;
   width: 240.52px;
   line-height: 24.3px;
   font-family: "Raleway", sans-serif;
@@ -68,6 +68,7 @@ a {
 }
 
 .margin {
+  justify-self: end;
   margin-top: 5px;
   margin-right: 25.48px;
 }
