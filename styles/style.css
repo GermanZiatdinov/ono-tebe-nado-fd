@@ -42,10 +42,14 @@ a {
 .url_circle {
   list-style: circle;
 } 
+.header_logo {
+  display: block;
+  left: 478px;
+  right: 474px;
+}
 
 
 .logotip {
-  display: block;
   width: 148px;
   height: 105px;
 }
