@@ -56,6 +56,8 @@ a {
 
 
 .cont {
+  display: grid;
+  grid-template-columns: 1fr min-content 1fr;
   width: 240.52px;
   line-height: 24.3px;
   font-family: "Raleway", sans-serif;
@@ -67,6 +69,8 @@ a {
 }
 
 .margin {
+  display: grid;
+  grid-template-columns: 1fr min-content 1fr;
   margin-top: 5px;
   margin-right: 25.48px;
 }
