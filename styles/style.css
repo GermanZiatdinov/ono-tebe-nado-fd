@@ -374,3 +374,22 @@ h3 {
 .link_decoration_none {
   text-decoration: none;
 }
+
+.footer__menu-list {
+  text-align: center;
+  list-style: none;
+  font-size: 18px;
+}
+
+.footer__menu-link_active {
+  text-decoration: none;
+}
+
+.footer__menu-link {
+   text-decoration-skip-ink: none;
+   line-height: 21.13px;
+}
+
+.footer__menu-list-item {
+  text-underline-position: under;
+}
