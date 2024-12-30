@@ -269,6 +269,10 @@
   padding-top: 1px;
 }
 
+.footer_text {
+  justify-self: end;
+}
+
 .footer_address {
   position: absolute;
   width: 264.57px;
