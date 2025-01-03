@@ -1,11 +1,11 @@
 .header { 
-  display: grid; 
+  display: grid 1fr min-content 1fr; 
   justify-content: space-between; 
   width: 1052px; 
   margin-inline: 24px; 
   margin-top: 92px; 
   position: relative; 
-  grid: 1fr min-content 1fr;
+  
 } 
  
 .wrapper { 
