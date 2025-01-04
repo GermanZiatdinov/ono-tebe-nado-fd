@@ -252,6 +252,7 @@ main p {
 } 
  
 .card_read { 
+  height: 100%;
   display: flex; 
   z-index: 1; 
   flex-direction: column; 
