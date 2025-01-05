@@ -239,6 +239,17 @@ main p {
   font-size: 20px; 
 } 
  
+.card_book { 
+  background-image: url(../images/card-lot-02.jpg); 
+} 
+ 
+.card_picture { 
+  background-image: url(../images/card-lot-03.jpg); 
+} 
+.card_cinema { 
+  background-image: url(../images/card-lot-01.jpg); 
+} 
+ 
 .card { 
   width: 334px; 
   min-height: 563px; 
@@ -270,17 +281,6 @@ main p {
  
 .card-text { 
   margin-inline: 40px; 
-} 
- 
-.card_book { 
-  background-image: url(../images/card-lot-02.jpg); 
-} 
- 
-.card_picture { 
-  background-image: url(../images/card-lot-03.jpg); 
-} 
-.card_cinema { 
-  background-image: url(../images/card-lot-01.jpg); 
 } 
  
 .url_lots { 
