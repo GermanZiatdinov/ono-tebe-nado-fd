@@ -238,7 +238,6 @@ main p {
   font-weight: 400; 
   font-size: 20px; 
 } 
- 
 .card_link {
   height: 100%;
   text-decoration: none;
@@ -270,7 +269,7 @@ main p {
 .card_read { 
   height: 100%;
   display: flex; 
-  z-index: 2; 
+  z-index: 0; 
   flex-direction: column; 
 } 
  
