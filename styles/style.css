@@ -240,6 +240,7 @@ main p {
 } 
  
 .a {
+    z-index: 0;
     height: 100%;
     text-decoration: none;
 }
@@ -269,7 +270,7 @@ background-image: url(../images/card-lot-01.jpg);
 .card_read { 
   height: 100%;
   display: flex; 
-  z-index: -1; 
+  z-index: 1; 
   flex-direction: column; 
 } 
  
