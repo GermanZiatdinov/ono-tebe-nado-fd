@@ -292,6 +292,7 @@ background-image: url(../images/card-lot-01.jpg);
 .card-text { 
   z-index: 2;
   margin-inline: 40px; 
+  padding-bottom: 50px;
 } 
  
 .url_lots { 
