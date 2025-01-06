@@ -10,34 +10,33 @@
       <link rel="stylesheet" href="./styles/style.css" /> 
     </head> 
     <body> 
-      <header> 
-        <div class="header"> 
-          <nav class="wrapper"> 
-            <ul class="nav"> 
-              <li class="url_decoration"> 
-                <a href="#" class="url_none">главная</a> 
-              </li> 
-              <l!i class="url_circle"> 
-                <a href="#">посмотреть лоты</a> 
-              </li> 
-              <li class="url_circle"> 
-                <a href="#">об аукционе</a> 
-              </li> 
-            </ul> 
-          </nav> 
-          <a><img class="logotip" 
-            src="./images/logo-black.svg" 
-            alt="black"/></a> 
-           
-          <address class="address"> 
-            <a class="address_link" href="tel:+99995555555">+9 999 555 5555</a> 
-            <a class="address_liink" href="mailto:info@sobaka.ge ">info@sobaka.ge</a> 
-            <p> 
-              <span class="address">наб. Принсенграхт 263-</span> 265, Амстердам 
-            </p> 
-          </address> 
-        </div> 
-      </header> 
+      <header class="header content-section">
+        <nav class="header__menu">
+          <ul class="header__links-list">
+            <li class="header__links-list-item header__links-list-item_no-bullit">
+              <a class="header__link_active" href="#">главная</a>
+            </li>
+            <li class="header__links-list-item">
+              <a class="header__link" href="#">посмотреть лоты</a>
+            </li>
+            <li class="header__links-list-item">
+              <a class="header__link" href="#">об аукционе</a>
+            </li>
+          </ul>
+        </nav>
+        <a class="header__logo">
+          <img
+            class="header__logo-image"
+            src="./images/logo-black.svg"
+            alt="black"
+          />
+        </a>
+        <address class="address">
+            <a href="tel:+99995555555">+9 999 555 5555</a><br />
+            <a href="mailto:info@sobaka.ge">info@sobaka.ge</a><br />
+            <p>наб. Принсенграхт 263- <br />265, Амстердам</p>
+        </address>
+      </header>
       <main> 
         <section class="cover"> 
           <div class="overlay"></div> 
