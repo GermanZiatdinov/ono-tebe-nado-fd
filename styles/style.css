@@ -83,10 +83,6 @@ a {
   text-underline-offset: 5px; 
 } 
  
-.address { 
-  display: block; 
-} 
- 
 .cover { 
   width: 1100px; 
   background-image: url(../images/cover.jpg); 
