@@ -377,9 +377,6 @@ h3 {
   text-align: center; 
 } 
  
-.address {
-  display: block;
-}
 .footer_social { 
   display: flex; 
   list-style-type: none; 
