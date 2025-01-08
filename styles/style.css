@@ -383,7 +383,13 @@ h3 {
   gap: 48px; 
 } 
 .contacts { 
-  font-style: normal; 
+  font-size: 18px;
+  font-style: normal;
+  line-height: 1.35;
+  text-underline-position: under;
+  text-decoration-thickness: 1px;
+  justify-self: end;
+  padding-right: 36px;
 } 
  
 .images { 
